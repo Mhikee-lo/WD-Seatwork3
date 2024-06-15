@@ -4,8 +4,8 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+  <a href="https://github.com/Mhikee-lo/WD-Seatwork3">
+    <img src="https://i.pinimg.com/736x/47/37/0d/47370d5fd4f8bb32748955be5874ec80.jpg" alt="jayjo" width="130" height="100">
   </a>
   <h3 align="center">Seatwork 3: Footer & Header</h3>
 </div>
@@ -15,7 +15,7 @@
 
 <br />
 
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Seatwork-3)
+![](https://visit-counter.vercel.app/counter.png?page=https://github.com/Mhikee-lo/WD-Seatwork3)
 
 ---
 
@@ -101,4 +101,4 @@ WD-ProjectName
 
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Leo Seda | I got my idea here | (https://github.com/LeoMiguelSeda/WD-Seatwork3/blob/main/pages/header-gallery/assets/css/style.css) |
