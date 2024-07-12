@@ -21,7 +21,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: #000000;
+    background-color: rgb(87, 47, 47);
 }
 
 section {
@@ -38,7 +38,7 @@ header.design-one {
     display: flex;
     justify-content: space-between;
     padding: 0.7rem 10vw;
-    background: #ff0000;
+    background: rgb(87, 47, 47);
   
     & > img.company-logoo {
       height: 50px;
@@ -62,7 +62,7 @@ header.design-two {
     display: flex;
     justify-content: space-between;
     padding: 0.7rem 10vw;
-    background: rgb(255, 230, 0), 230, 0;
+    background: rgb(87, 47, 47);
   
     & > img.company-logo {
       height: 100px;
@@ -113,7 +113,7 @@ header.design-three {
     width: 100vw;
     display: flex;
     padding: 0.7rem 10vw;
-    background: #000000;
+    background: rgb(87, 47, 47);
     border: #ffffff;
     
 header.another {
@@ -196,7 +196,7 @@ header.design-four {
   display: flex;
   justify-content: space-between;
   padding: 0.7rem 10vw;
-  background: #ff0000;
+  background: rgb(87, 47, 47);
 
   & > img.company-logooo {
     height: 100px;
@@ -232,7 +232,7 @@ header.design-five {
   display: flex;
   justify-content: space-between;
   padding: 0.7rem 10vw;
-  background: rgb(255, 230, 0), 230, 0;
+  background: rgb(87, 47, 47);
 
   & > img.company-logoooo {
     height: 100px;
@@ -258,7 +258,7 @@ header.design-one {
   display: flex;
   justify-content: space-between;
   padding: 0.7rem 10vw;
-  background: #000000;
+  background: rgb(87, 47, 47);
 
   & > img.company-logo {
     height: 50px;
@@ -288,7 +288,7 @@ header.design-two {
   display: flex;
   justify-content: space-between;
   padding: 0.7rem 10vw;
-  background: #ff0000;
+  background: rgb(87, 47, 47);
 
   & > img.company-logo {
     height: 100px;
@@ -347,8 +347,8 @@ header.design-three {
   width: 100vw;
   display: flex;
   padding: 0.7rem 10vw;
-  background: rgb(255, 230, 0), 230, 0;
-  border: #000000;
+  background: rgb(87, 47, 47);
+  border: #ffffff;
   
 header.another {
   box-shadow: rgb(255, 113, 113) 0px 20px 30px -10px;
@@ -396,7 +396,7 @@ header.another {
       bottom: 0;
       width: 0;
       height: 2px;
-      background-color: #000000;
+      background-color: rgb(87, 47, 47);
       transition: width 0.3s ease-in-out;
     }
 
@@ -441,7 +441,7 @@ width: 100vw;
 display: flex;
 justify-content: space-between;
 padding: 0.7rem 10vw;
-background: #ff0000;
+background: rgb(87, 47, 47);
 
 & > img.company-logo {
   height: 100px;
@@ -488,7 +488,7 @@ width: 100vw;
 display: flex;
 justify-content: space-between;
 padding: 0.7rem 10vw;
-background: rgb(255, 230, 0), 230, 0;
+background: rgb(87, 47, 47);
 
 & > img.company-logo {
   height: 100px;
@@ -516,7 +516,7 @@ background: rgb(255, 230, 0), 230, 0;
     transition: background-color 0.3s ease, transform 0.3s ease;
 
     &:hover {
-      background-color: rgba(0, 0, 0, 0.1);
+      background-color: rgb(87, 47, 47);
       transform: scale(1.1);
       animation: bounce 1s;
     }
@@ -529,7 +529,7 @@ header.design-one {
   display: flex;
   justify-content: space-between;
   padding: 0.7rem 10vw;
-  background: #ff0000;
+  background: rgb(87, 47, 47);
 
   & > img.company-logo {
     height: 50px;
@@ -559,7 +559,7 @@ header.design-two {
   display: flex;
   justify-content: space-between;
   padding: 0.7rem 10vw;
-  background: rgb(255, 230, 0), 230, 0;
+  background: rgb(87, 47, 47);
 
   & > img.company-logo {
     height: 100px;
@@ -618,7 +618,7 @@ header.design-three {
   width: 100vw;
   display: flex;
   padding: 0.7rem 10vw;
-  background: #000000;
+  background: rgb(87, 47, 47);
   border: #ffffff;
   
 header.another {
@@ -667,7 +667,7 @@ header.another {
       bottom: 0;
       width: 0;
       height: 2px;
-      background-color: #ff0000;
+      background-color: rgb(87, 47, 47);
       transition: width 0.3s ease-in-out;
     }
 
@@ -712,7 +712,7 @@ width: 100vw;
 display: flex;
 justify-content: space-between;
 padding: 0.7rem 10vw;
-background: rgb(255, 230, 0), 230, 0;
+background: rgb(87, 47, 47);
 
 & > img.company-logo {
   height: 100px;
@@ -759,7 +759,7 @@ width: 100vw;
 display: flex;
 justify-content: space-between;
 padding: 0.7rem 10vw;
-background: #000000;
+background: rgb(87, 47, 47);
 
 & > img.company-logo {
   height: 100px;
@@ -787,7 +787,7 @@ background: #000000;
     transition: background-color 0.3s ease, transform 0.3s ease;
 
     &:hover {
-      background-color: rgb(255, 0, 0);
+      background-color: rgb(87, 47, 47);
       transform: scale(1.1);
       animation: bounce 1s;
     }
@@ -800,7 +800,7 @@ width: 100vw;
 display: flex;
 justify-content: space-between;
 padding: 0.7rem 10vw;
-background: rgb(255, 230, 0), 230, 0;
+background: rgb(87, 47, 47);
 
 & > img.company-logo {
   height: 50px;
@@ -830,7 +830,7 @@ width: 100vw;
 display: flex;
 justify-content: space-between;
 padding: 0.7rem 10vw;
-background: #000000;
+background: rgb(87, 47, 47);
 
 & > img.company-logo {
   height: 100px;
@@ -889,8 +889,8 @@ border-radius: 50px;
 width: 100vw;
 display: flex;
 padding: 0.7rem 10vw;
-background: #ff0000;
-border: #000000;
+background: rgb(87, 47, 47);
+border: #ffffff;
 
 header.another {
 box-shadow: rgb(255, 113, 113) 0px 20px 30px -10px;
@@ -938,7 +938,7 @@ border-radius: 50px;
     bottom: 0;
     width: 0;
     height: 2px;
-    background-color: rgb(255, 230, 0), 230, 0;
+    background-color: rgb(87, 47, 47);
     transition: width 0.3s ease-in-out;
   }
 
@@ -983,7 +983,7 @@ width: 100vw;
 display: flex;
 justify-content: space-between;
 padding: 0.7rem 10vw;
-background: #000000;
+background: rgb(87, 47, 47);
 
 & > img.company-logo {
 height: 100px;
@@ -1030,7 +1030,7 @@ width: 100vw;
 display: flex;
 justify-content: space-between;
 padding: 0.7rem 10vw;
-background: #ff0000;
+background: rgb(87, 47, 47);
 
 & > img.company-logo {
 height: 100px;
@@ -1058,7 +1058,7 @@ gap: 1rem;
   transition: background-color 0.3s ease, transform 0.3s ease;
 
   &:hover {
-    background-color: rgb(255, 230, 0);
+    background-color: rgb(87, 47, 47);
     transform: scale(1.1);
     animation: bounce 1s;
   }
