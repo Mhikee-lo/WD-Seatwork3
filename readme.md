@@ -4,23 +4,27 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/Mhikee-lo/WD-Seatwork3">
-    <img src="https://i.pinimg.com/736x/47/37/0d/47370d5fd4f8bb32748955be5874ec80.jpg" alt="jayjo" width="130" height="100">
+  <a href="https://github.com/Mhikee-lo/WD-Sevilleja_HandsOn2">
+  <img src="./assets/img/Me.jpg" alt="Profile" width="300" height="400">
   </a>
-  <h3 align="center">Seatwork 3: Footer & Header</h3>
+
+  <h3 align="center">Seatwork 4</h3>
 </div>
+
 <div align="center">
-  This is for demonstrating skills in HTML and CSS with Multiple Pages, Effects and Container Manipulations. Providing a Different Versions of Headers and Footers.
+  
 </div>
 
 <br />
 
-![](https://visit-counter.vercel.app/counter.png?page=https://github.com/Mhikee-lo/WD-Seatwork3)
+
+![](https://visit-counter.vercel.app/counter.png?page=Mhikee-lo/WD-Seatwork3)
 
 ---
 
 <br />
 <br />
+
 
 <details>
   <summary>Table of Contents</summary>
@@ -49,19 +53,26 @@
 
 ## Overview
 
-Project demonstrate the coding of HTMl and CSS in different kinds of headers and footers in addition of animations. This is to have hands-on experience in coding and having an actual output.
+
+Description of the project in details.
+
+
+- Hands-On 3
+- To create Footer and Header
+
 
 ### Key Components
-- Header Animation
-  - Hover Effect
-  - Active Effect
-  - Multi Layer Domino Effect
-  - Not Effect
 
+
+- MultiPage Website/Single Page Website
+- Parallax transition
+- Transactional
 
 ### Technology
+<!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
@@ -99,6 +110,9 @@ WD-ProjectName
 
 ## Resources
 
+<!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Leo Seda | I got my idea here | (https://github.com/LeoMiguelSeda/WD-Seatwork3/blob/main/pages/header-gallery/assets/css/style.css) |
+| Creating Responsive CSS Cards | To have an idea on how to create responsive CSS cards | https://www.youtube.com/watch?v=9FNNkzPBFcE |
+| CSS Responsive Card & Hover Effects with Flexbox | How to create hover effect | https://www.youtube.com/watch?v=qXRYMdvq_Dc |
+| Helps me | To guide me while doing the code | https://github.com/LeoMiguelSeda
