@@ -8,7 +8,7 @@
   <img src="./assets/img/Me.jpg" alt="Profile" width="300" height="400">
   </a>
 
-  <h3 align="center">Seatwork 4</h3>
+  <h3 align="center">Seatwork 3</h3>
 </div>
 
 <div align="center">
