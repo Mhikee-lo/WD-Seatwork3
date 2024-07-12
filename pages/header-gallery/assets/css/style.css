@@ -113,11 +113,11 @@ header.design-three {
     width: 100vw;
     display: flex;
     padding: 0.7rem 10vw;
-    background: rgb(87, 47, 47);
+    background: rgb(255, 255, 255);
     border: #ffffff;
     
 header.another {
-    box-shadow: rgb(255, 113, 113) 0px 20px 30px -10px;
+    box-shadow: rgb(0, 0, 0) 0px 20px 30px -10px;
     display: flex;
     justify-content: flex-end;
     width: 100vw;
@@ -347,11 +347,11 @@ header.design-three {
   width: 100vw;
   display: flex;
   padding: 0.7rem 10vw;
-  background: rgb(87, 47, 47);
+  background: rgb(255, 255, 255);
   border: #ffffff;
   
 header.another {
-  box-shadow: rgb(255, 113, 113) 0px 20px 30px -10px;
+  box-shadow: rgb(0, 0, 0) 0px 20px 30px -10px;
   display: flex;
   justify-content: flex-end;
   width: 100vw;
@@ -618,11 +618,11 @@ header.design-three {
   width: 100vw;
   display: flex;
   padding: 0.7rem 10vw;
-  background: rgb(87, 47, 47);
+  background: rgb(255, 255, 255);
   border: #ffffff;
   
 header.another {
-  box-shadow: rgb(255, 113, 113) 0px 20px 30px -10px;
+  box-shadow: rgb(0, 0, 0) 0px 20px 30px -10px;
   display: flex;
   justify-content: flex-end;
   width: 100vw;
@@ -712,7 +712,7 @@ width: 100vw;
 display: flex;
 justify-content: space-between;
 padding: 0.7rem 10vw;
-background: rgb(87, 47, 47);
+background: rgb(255, 255, 255);
 
 & > img.company-logo {
   height: 100px;
@@ -890,7 +890,7 @@ width: 100vw;
 display: flex;
 padding: 0.7rem 10vw;
 background: rgb(255, 255, 255);
-border: #000000;
+border: #ffffff;
 
 header.another {
 box-shadow: rgb(0, 0, 0) 0px 20px 30px -10px;
