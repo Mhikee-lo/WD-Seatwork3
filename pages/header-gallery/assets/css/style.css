@@ -14,14 +14,25 @@ body {
 header {
   padding: 20px;
   text-align: center;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
 }
 
 h1 {
-  font-size: 24px;
-  margin-bottom: 10px;
+  font-size: 36px;
+  margin-bottom: 20px;
 }
 
 .social-icons {
+  background-image: url('https://mrwallpaper.com/images/hd/abstract-white-and-blue-aesthetic-pc-fqkbyf0ie5n5x0b4.jpg');
+  background-size: cover;
+  background-position: center;
   list-style: none;
   margin: 0;
   padding: 0;
@@ -34,114 +45,101 @@ h1 {
 }
 
 .social-icons a {
-  color: #333;
+  color: #fff;
   text-decoration: none;
 }
 
 .social-icons a:hover {
-  color: #666;
-}
-
-.header-effects {
-  margin: 20px;
-}
-
-.header-effects div {
-  margin: 10px;
-  padding: 10px;
-  border-radius: 10px;
-  cursor: pointer;
-}
-
-.header-effects div:hover {
-  animation-duration: 2s;
-  animation-fill-mode: both;
-}
-
-.simple-header {
-  background-color: #f7f7f7;
-  border: 1px solid #ddd;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-
-.header-with-logo {
-  background-color: #fff;
-  border: 1px solid #ccc;
-  padding: 20px;
-  text-align: left;
-}
-
-.header-with-logo h1 {
-  font-size: 36px;
-  margin-bottom: 20px;
-}
-
-.header-with-nav {
-  background-color: #333;
-  color: #fff;
-  padding: 20px;
-  text-align: left;
-}
-
-.header-with-nav nav ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  display: flex;
-  justify-content: space-between;
-}
-
-.header-with-nav nav a {
-  color: #fff;
-  text-decoration: none;
-}
-
-.header-with-nav nav a:hover {
   color: #ccc;
 }
 
-.header-with-bg-image {
-  background-image: url('https://i.pinimg.com/736x/d4/95/df/d495df2089c5d28db0adc62ee33956f7.jpg');
+.simple-header {
+  background-image: url('https://t3.ftcdn.net/jpg/02/21/14/90/360_F_221149003_ZdzIXgipdNG7yYpjiiYEnzq9Km3bAz9Z.jpg');
   background-size: cover;
   background-position: center;
-  height: 200px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  color: #fff;
+}
+
+.header-with-logo {
+  background-image: url('https://img.freepik.com/premium-photo/purple-wallpapers-that-are-purple-black_886336-412.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.header-with-nav {
+  background-image: url('https://img.freepik.com/free-photo/abstract-orange-paint-background-acrylic-texture-with-marble-pattern_1258-90489.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.header-with-bg-image {
+  background-image: url('https://wallpapers.com/images/featured/plain-grey-0ewzc6jr21rc0p7v.jpg');
+  background-size: cover;
+  background-position: center;
 }
 
 .header-with-gradient-bg {
   background-image: linear-gradient(to bottom, #333, #666);
-  height: 200px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  color: #fff;
 }
 
-.fade-in-header:hover {
+.fade-in-header {
+  background-image: url('https://mrwallpaper.com/images/hd/abstract-white-and-blue-aesthetic-pc-fqkbyf0ie5n5x0b4.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.fade-in-header h1 {
   animation-name: fadeIn;
+  animation-duration: 2s;
 }
 
-.slide-in-header:hover {
+.slide-in-header {
+  background-image: url('https://t3.ftcdn.net/jpg/02/21/14/90/360_F_221149003_ZdzIXgipdNG7yYpjiiYEnzq9Km3bAz9Z.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.slide-in-header h1 {
   animation-name: slideIn;
+  animation-duration: 2s;
 }
 
-.bounce-in-header:hover {
+.bounce-in-header {
+  background-image: url('https://img.freepik.com/premium-photo/purple-wallpapers-that-are-purple-black_886336-412.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.bounce-in-header h1 {
   animation-name: bounceIn;
+  animation-duration: 2s;
 }
 
-.pulse-header:hover {
+.pulse-header {
+  background-image: url('https://img.freepik.com/free-photo/abstract-orange-paint-background-acrylic-texture-with-marble-pattern_1258-90489.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.pulse-header h1 {
   animation-name: pulse;
+  animation-duration: 2s;
   animation-iteration-count: infinite;
 }
 
-.flip-in-header:hover {
+.flip-in-header {
+  background-image: url('https://wallpapers.com/images/featured/plain-grey-0ewzc6jr21rc0p7v.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.flip-in-header h1 {
   animation-name: flipIn;
+  animation-duration: 2s;
   transform-style: preserve-3d;
   perspective: 1000px;
 }
+
+/* Animation Keyframes */
 
 @keyframes fadeIn {
   0% {
