@@ -114,4 +114,7 @@ WD-ProjectName
 |-|-|-|
 | Creating Responsive CSS Cards | To have an idea on how to create responsive CSS cards | https://www.youtube.com/watch?v=9FNNkzPBFcE |
 | CSS Responsive Card & Hover Effects with Flexbox | How to create hover effect | https://www.youtube.com/watch?v=qXRYMdvq_Dc |
-| Helps me | To guide me while doing the code | https://github.com/LeoMiguelSeda
+| Helps me | To guide me while doing the code | https://github.com/LeoMiguelSeda|
+|Pictures I used| Almost all my examples are from Windbreaker| https://www.pinterest.com/#search|
+|WindBreaker Manhwa| To know the Characters| https://www.google.com/url?sa=i&url=https%3A%2F%2Fwindbreakerr.com%2F&psig=AOvVaw3KvutR35VSR3DsmWgbCFUK&ust=1720898308792000&source=images&cd=vfe&opi=89978449&ved=0CAQQn5wMahcKEwiAtqv3m6KHAxUAAAAAHQAAAAAQBA
+|Uiverse| This is where I get my designs| https://uiverse.io/
