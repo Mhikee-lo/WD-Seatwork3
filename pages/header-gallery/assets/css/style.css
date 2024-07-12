@@ -42,46 +42,106 @@ h1 {
   color: #666;
 }
 
-/* Animated Headers */
-
-.fade-in-header {
-  background-color: #3498db;
-  animation: fadeIn 2s;
+.header-effects {
+  margin: 20px;
 }
 
-.slide-in-header {
-  background-color: #f1c40f;
-  animation: slideIn 2s;
+.header-effects div {
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  cursor: pointer;
 }
 
-.bounce-in-header {
-  background-color: #e74c3c;
-  animation: bounceIn 2s;
+.header-effects div:hover {
+  animation-duration: 2s;
+  animation-fill-mode: both;
 }
 
-.pulse-header {
-  background-color: #2ecc71;
-  animation: pulse 2s infinite;
+.simple-header {
+  background-color: #f7f7f7;
+  border: 1px solid #ddd;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-.flip-in-header {
-  background-color: #9b59b6;
-  animation: flipIn 2s;
+.header-with-logo {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  padding: 20px;
+  text-align: left;
+}
+
+.header-with-logo h1 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.header-with-nav {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: left;
+}
+
+.header-with-nav nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+.header-with-nav nav a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.header-with-nav nav a:hover {
+  color: #ccc;
+}
+
+.header-with-bg-image {
+  background-image: url('https://i.pinimg.com/736x/d4/95/df/d495df2089c5d28db0adc62ee33956f7.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+}
+
+.header-with-gradient-bg {
+  background-image: linear-gradient(to bottom, #333, #666);
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+}
+
+.fade-in-header:hover {
+  animation-name: fadeIn;
+}
+
+.slide-in-header:hover {
+  animation-name: slideIn;
+}
+
+.bounce-in-header:hover {
+  animation-name: bounceIn;
+}
+
+.pulse-header:hover {
+  animation-name: pulse;
+  animation-iteration-count: infinite;
+}
+
+.flip-in-header:hover {
+  animation-name: flipIn;
   transform-style: preserve-3d;
   perspective: 1000px;
 }
-
-.flip-in-header h1 {
-  transform: translateZ(100px);
-  backface-visibility: hidden;
-}
-
-.flip-in-header .social-icons {
-  transform: translateZ(-100px);
-  backface-visibility: hidden;
-}
-
-/* Animation Keyframes */
 
 @keyframes fadeIn {
   0% {
