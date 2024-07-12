@@ -21,7 +21,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: rgb(87, 47, 47);
+    background-color: rgb(255, 255, 255);
 }
 
 section {
@@ -396,7 +396,7 @@ header.another {
       bottom: 0;
       width: 0;
       height: 2px;
-      background-color: rgb(87, 47, 47);
+      background-color: rgb(65, 65, 65);
       transition: width 0.3s ease-in-out;
     }
 
@@ -516,7 +516,7 @@ background: rgb(87, 47, 47);
     transition: background-color 0.3s ease, transform 0.3s ease;
 
     &:hover {
-      background-color: rgb(87, 47, 47);
+      background-color: rgb(255, 255, 255);
       transform: scale(1.1);
       animation: bounce 1s;
     }
@@ -529,7 +529,7 @@ header.design-one {
   display: flex;
   justify-content: space-between;
   padding: 0.7rem 10vw;
-  background: rgb(87, 47, 47);
+  background: rgb(255, 255, 255);
 
   & > img.company-logo {
     height: 50px;
@@ -559,7 +559,7 @@ header.design-two {
   display: flex;
   justify-content: space-between;
   padding: 0.7rem 10vw;
-  background: rgb(87, 47, 47);
+  background: rgb(0, 0, 0);
 
   & > img.company-logo {
     height: 100px;
@@ -667,7 +667,7 @@ header.another {
       bottom: 0;
       width: 0;
       height: 2px;
-      background-color: rgb(87, 47, 47);
+      background-color: rgb(0, 0, 0);
       transition: width 0.3s ease-in-out;
     }
 
@@ -759,7 +759,7 @@ width: 100vw;
 display: flex;
 justify-content: space-between;
 padding: 0.7rem 10vw;
-background: rgb(87, 47, 47);
+background: rgb(255, 255, 255);
 
 & > img.company-logo {
   height: 100px;
@@ -787,7 +787,7 @@ background: rgb(87, 47, 47);
     transition: background-color 0.3s ease, transform 0.3s ease;
 
     &:hover {
-      background-color: rgb(87, 47, 47);
+      background-color: rgb(255, 255, 255);
       transform: scale(1.1);
       animation: bounce 1s;
     }
@@ -800,7 +800,7 @@ width: 100vw;
 display: flex;
 justify-content: space-between;
 padding: 0.7rem 10vw;
-background: rgb(87, 47, 47);
+background: rgb(255, 255, 255);
 
 & > img.company-logo {
   height: 50px;
@@ -830,7 +830,7 @@ width: 100vw;
 display: flex;
 justify-content: space-between;
 padding: 0.7rem 10vw;
-background: rgb(87, 47, 47);
+background: rgb(0, 0, 0);
 
 & > img.company-logo {
   height: 100px;
@@ -889,11 +889,11 @@ border-radius: 50px;
 width: 100vw;
 display: flex;
 padding: 0.7rem 10vw;
-background: rgb(87, 47, 47);
-border: #ffffff;
+background: rgb(255, 255, 255);
+border: #000000;
 
 header.another {
-box-shadow: rgb(255, 113, 113) 0px 20px 30px -10px;
+box-shadow: rgb(0, 0, 0) 0px 20px 30px -10px;
 display: flex;
 justify-content: flex-end;
 width: 100vw;
@@ -938,7 +938,7 @@ border-radius: 50px;
     bottom: 0;
     width: 0;
     height: 2px;
-    background-color: rgb(87, 47, 47);
+    background-color: rgb(65, 65, 65);
     transition: width 0.3s ease-in-out;
   }
 
@@ -983,7 +983,7 @@ width: 100vw;
 display: flex;
 justify-content: space-between;
 padding: 0.7rem 10vw;
-background: rgb(87, 47, 47);
+background: rgb(255, 255, 255);
 
 & > img.company-logo {
 height: 100px;
@@ -1030,7 +1030,7 @@ width: 100vw;
 display: flex;
 justify-content: space-between;
 padding: 0.7rem 10vw;
-background: rgb(87, 47, 47);
+background: rgb(255, 255, 255);
 
 & > img.company-logo {
 height: 100px;
@@ -1058,7 +1058,7 @@ gap: 1rem;
   transition: background-color 0.3s ease, transform 0.3s ease;
 
   &:hover {
-    background-color: rgb(87, 47, 47);
+    background-color: rgb(0, 0, 0);
     transform: scale(1.1);
     animation: bounce 1s;
   }
